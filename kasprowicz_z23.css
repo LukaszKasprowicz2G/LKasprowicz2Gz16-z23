@@ -1,0 +1,26 @@
+p#pogrubienie_kasprowicz {
+  font-size: 35px;
+  color: #985BD2;
+}
+p#pochylona_kasprowicz {
+  font-size: 40pt;
+  color: #FABF6E;
+}
+p#index_gorny_kasprowicz {
+  font-size: 1,5cm;
+  color: #AC8D1E;
+}
+p#index_dolny_kasprowicz {
+  font-size: 2,5cm;
+  color: RGB(28%,94%,89%);
+}
+p#mono_kasprowicz {
+  font-size: 45px;
+  color: #2CDD6E;
+}
+p#powiekszenie_kasprowicz {
+  color: #663DA0;
+}
+p#pomniejszenie_kasprowicz {
+  color: RGB(79%,63%,23%);
+}
